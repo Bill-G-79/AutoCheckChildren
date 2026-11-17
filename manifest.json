@@ -1,0 +1,9 @@
+{
+  "id": "auto-check-children",
+  "name": "Auto Check Children",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Automatically match nested task checkboxes to their parent when the parent changes.",
+  "author": "Bill",
+  "isDesktopOnly": false
+}
